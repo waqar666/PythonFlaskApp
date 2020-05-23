@@ -1,2 +1,2 @@
 # PythonFlaskApp
-Python Flask App to hot on web server
+Python Flask App to host on web server
