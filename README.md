@@ -1,2 +1,2 @@
 # PythonFlaskApp
-Python Flask App to host on web server
+Python Flask App to create a web site
